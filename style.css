@@ -1,0 +1,54 @@
+		.logotipo {
+			width: 50px;
+			height: auto;
+		}
+
+#social{
+	text-align: center;
+	background-color: #d8eabe; 
+	/*padding-top: 70px;
+	padding-bottom: 70px;*/
+	padding: 70px 0;
+
+}
+
+.titulo-section{
+	font-size: 27pt;
+	font-weight: bold;
+}
+
+
+#social a{s
+
+	/*color:#ffffff;
+	font-size: 18pt;*/
+	padding-right: 10px;
+}
+
+#social a :hover{
+	color: black;
+	transition: 1s;
+
+}
+#institucional{
+	text-align: center;
+	padding: 60px 0;
+	background-color: #f2f8e9;
+
+}
+#institucional p{
+	text-align: left;
+}
+
+#service{
+	background-color: #f2f8e9;
+	text-align: center;
+}
+#service .text{
+	padding: 30px;
+}
+#service p{
+	text-align: left;
+}
+
+
